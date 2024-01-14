@@ -38,9 +38,11 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebooklogo"  />
   </a> 
 </p>
-<br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Web+Designer)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Web+Designer" alt="Typing SVG">
+</p>
 
 <!-- About Section -->
 
