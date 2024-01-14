@@ -22,10 +22,10 @@
 </p> -->
 
 <p align="center">
- <a href="portfolio link " target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolioLogo" />
+ <a href="https://github.com/ashwekkalgutkar/ashwekkalgutkar.github.io" target="blank">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolioLogo" />
  </a>
- <a href="www.linkedin.com/in/ashwek-kalgutkar" target="_blank">
+ <a href="https://www.linkedin.com/in/ashwek-kalgutkar/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashwek-linkedinlogo"/>
  </a>
  <!-- <a href="" target="_blank">
@@ -40,12 +40,14 @@
 </p>
 <br />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Web+Designer)](https://git.io/typing-svg)
+
 <!-- About Section -->
 
 # About me
 
 <p>
- <img align="right" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Coding gif" />
   
  👋 &emsp;Hey there! I'm passionate about code, innovation, and sharing knowledge.<br/><br/>
  ❤️ &emsp; Always exploring new tech to create impactful solutions.<br/><br/>
@@ -60,6 +62,7 @@
 
 ## Languages and Tools
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,7 +71,10 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
