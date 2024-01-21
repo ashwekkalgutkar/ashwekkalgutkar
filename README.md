@@ -22,7 +22,7 @@
 </p> -->
 
 <p align="center">
- <a href=" https://ashwekkalgutkar.github.io/" target="blank">
+ <a href="https://ashwekkalgutkar.github.io/" target="blank">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolioLogo" />
  </a>
  <a href="https://www.linkedin.com/in/ashwek-kalgutkar/" target="_blank">
