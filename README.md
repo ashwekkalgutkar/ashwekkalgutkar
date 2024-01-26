@@ -90,7 +90,10 @@
 
 <h1 align="center">GitHub Stats</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashwekkalgutkar&rank=S,A,B,C,SECRET)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat))
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ashwekkalgutkar&rank=S,A,B,C,SECRET)]([[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat))
+</p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
