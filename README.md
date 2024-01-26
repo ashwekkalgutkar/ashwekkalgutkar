@@ -90,7 +90,7 @@
 
 <h1 align="center">GitHub Stats</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashwekkalgutkar&row=1&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashwekkalgutkar&row=1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
