@@ -90,7 +90,7 @@
 
 <h1 align="center">GitHub Stats</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie))
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashwekkalgutkar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
