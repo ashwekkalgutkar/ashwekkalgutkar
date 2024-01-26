@@ -90,9 +90,8 @@
 
 <h1 align="center">GitHub Stats</h1>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwekkalgutkar&rank=S,A,B,C,SECRET&theme=flat" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashwekkalgutkar&row=1&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p align="center">
