@@ -89,6 +89,7 @@
 <br/>
 
 <h1 align="center">GitHub Stats</h1>
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashwekkalgutkar&row=1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -107,9 +108,11 @@
 </p>
 
 <a> 
-    <a href="https://github.com/ashwekkalgutkar"><img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashwekkalgutkar&theme=midnight_purple" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ashwekkalgutkar"><img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashwekkalgutkar&theme=midnight_purple" height="192px" width="49.5%"/></a>
   <a href="https://github.com/ashwekkalgutkar"><img alt="Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwekkalgutkar&theme=midnight_purple" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 [![Ashwek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwekkalgutkar&theme=high-contrast)](https://github.com/ashwekkalgutkar/github-readme-activity-graph)
+
+<br/>
