@@ -53,7 +53,7 @@
   
  👋 &emsp;Hey there! I'm passionate about code, innovation, and sharing knowledge.<br/><br/>
  ❤️ &emsp; Always exploring new tech to create impactful solutions.<br/><br/>
- 📧 &emsp; Reach me at: kalgutkarashwek@gmail.com<br/><br/>
+ 📧 &emsp; Reach me at: [here](mailto:kalgutkarashwek@gmail.com)<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/ashwekkalgutkar/ashwekkalgutkar/issues)
 
 </p>
