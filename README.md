@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Web+Designer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Web+Designer" alt="Typing SVG">
 </p>
 
 <p align="center">
