@@ -11,15 +11,9 @@
         </samp>
 </h3>
 
-<!-- <p align="center">
-  <samp>
-    <a href="">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Location</b> 」
-    <br>
-    <br>
-  </samp>
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Web+Designer" alt="Typing SVG">
+</p>
 
 <p align="center">
  <a href="https://ashwekkalgutkar.github.io/" target="blank">
@@ -39,10 +33,6 @@
   </a> 
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Web+Designer" alt="Typing SVG">
-</p>
 
 <!-- About Section -->
 
