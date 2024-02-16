@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Web+Designer" alt="Typing SVG">
 </p>
-
 <p align="center">
  <a href="https://ashwekkalgutkar.github.io/" target="blank">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolioLogo" />
