@@ -42,8 +42,8 @@
   
  👋 &emsp;Hey there! I'm passionate about code, innovation, and sharing knowledge.<br/><br/>
  ❤️ &emsp; Always exploring new tech to create impactful solutions.<br/><br/>
- 📧 &emsp; Reach me at: [here](mailto:kalgutkarashwek@gmail.com)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/ashwekkalgutkar/ashwekkalgutkar/issues)
+ 📧 &emsp; Reach me at(mail): [here](mailto:kalgutkarashwek@gmail.com)<br/><br/>
+ 💬 &emsp; Ask me about anything(issues): [here](https://github.com/ashwekkalgutkar/ashwekkalgutkar/issues)
 
 </p>
 
